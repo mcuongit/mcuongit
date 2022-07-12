@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcuongit
 - 👀 I’m interested in coding front end
-- 🌱 I’m currently learning html, css and js
+- 🌱 I’m currently learning Reactjs, MERN Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
