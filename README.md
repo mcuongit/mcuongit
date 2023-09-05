@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @mcuongit
-- 👀 I’m interested in coding front end
-- 🌱 I’m currently learning Reactjs, MERN Stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Người già neo đơn
 
 <!---
 mcuongit/mcuongit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
